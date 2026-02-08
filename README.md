@@ -1,4 +1,4 @@
-This is a benchmark developed by Tikeape, a member of teichai, meant to help identify how close a distilled model managed to mimic its style.
+This is a benchmark developed by Tikeape, a member of TeichAI, designed to help identify how effectively a distilled model managed to mimic its style.
 
 ## Guide: Read Before Using!
 
